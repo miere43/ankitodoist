@@ -1,0 +1,8 @@
+{
+    "todoist_token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "task_id": "xxxxxxxxxx",
+    "ignore_decks": [
+        "xxxxxxxxxxxxxxxxx",
+        "yyyyyyyyyyyyyyyyy"
+    ]
+}
